@@ -1,6 +1,6 @@
 # Summary
 
-* [Linux Study](study.md)
+* [Linux Study](linux.md)
 
 * [Android Study](android.md)
 
