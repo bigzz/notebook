@@ -21,3 +21,6 @@ Linaro Git 仓库列表:
 |qa/bonnie.git	|Unnamed repository	
 |qa/gatortests.git	|Gator tests
 |qa/sched_tests.git	|Unnamed repository
+|toolchain/cortex-malloc.git	|malloc test and benchmark suite
+|toolchain/cortex-strings.git	|Optimized string routines for ARM and AArch64
+|toolchain/glibc.git	|Linaro glibc
